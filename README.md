@@ -11,4 +11,9 @@ Due to delays, the process of outsourcing the project has taken longer than
 expected. The first submission will be a dump of the code that brought the
 project to the publication. I will get it to compilation as soon as possible.
 
+Also due to changes in the way the project was named, I am doing renaming of
+variables and other things to match the paper. This can also affect the
+successful compilation of the project. I will address that as well as soon as
+possible.
+
 -- Armando
