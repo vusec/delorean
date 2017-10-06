@@ -70,8 +70,9 @@ class MapEntry:
 
 
 class KDLUtil:
-    CONF_DIR = "/proc/sys/kdl/conf"
-    STATS_DIR = "/proc/sys/kdl/stats"
+    # XXX: rename when the module is renamed to KDL
+    CONF_DIR = "/proc/sys/smmap/conf"
+    STATS_DIR = "/proc/sys/smmap/stats"
     worker_thread_id = None
 
     @staticmethod
